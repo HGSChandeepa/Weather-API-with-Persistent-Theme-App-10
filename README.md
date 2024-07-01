@@ -9,7 +9,7 @@ A simple Flutter application to fetch and display weather information with suppo
 
 ### Screenshots
 
-![Light Theme](https://via.placeholder.com/150 "Light Theme") ![Dark Theme](https://via.placeholder.com/150 "Dark Theme")
+![Light Theme](https://github.com/HGSChandeepa/Weather-API-with-Persistent-Theme/blob/main/app.png) 
 
 ### Installation
 
