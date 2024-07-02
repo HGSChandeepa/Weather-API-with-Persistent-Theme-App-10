@@ -1,3 +1,5 @@
+# DP Education Flutter Series App 10
+
 A simple Flutter application to fetch and display weather information with support for light and dark themes. Users can search for the weather in a specific location and view current weather conditions.
 
 ### Features
